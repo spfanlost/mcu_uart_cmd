@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "share.h": "c",
+        "kl02z_uart.h": "c",
+        "kl02z_tpm.h": "c",
+        "delay.h": "c",
+        "systeminfo.h": "c",
+        "mkl02z4.h": "c",
+        "stdio.h": "c",
+        "string.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
